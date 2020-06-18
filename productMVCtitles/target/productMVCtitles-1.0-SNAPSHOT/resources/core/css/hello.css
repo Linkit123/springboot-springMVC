@@ -1,0 +1,22 @@
+.coverSingleItem {
+    padding: 12px;
+    border: solid 1px darkred;
+    margin-bottom: 8px
+}
+.managerButton {
+    padding: 4px;
+    display: inline-block;
+    color: white;
+    cursor: pointer;
+}
+.buttonManagerGroup {
+    padding-top: 20px;
+}
+.delete {
+    background-color: #dd4a68;
+    margin-left: 14px;
+}
+
+.update {
+    background-color: #3dbdf3;
+}

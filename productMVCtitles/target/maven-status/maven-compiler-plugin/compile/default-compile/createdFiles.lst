@@ -1,0 +1,5 @@
+com\mycompany\productmvctitles\controller\ContactController.class
+com\mycompany\productmvctitles\controller\HomeController.class
+com\mycompany\productmvctitles\entities\Contact.class
+com\mycompany\productmvctitles\controller\ProductController.class
+com\mycompany\productmvctitles\entities\Product.class
